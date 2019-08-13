@@ -1,7 +1,7 @@
 # CS5425-big-data-and-data-science
 Projects for CS5425 big data and data science
 
-## 1. [Common Word Count](/commonword)
+## 1. [Common Word Count](commonword)
 
 * Problem:  
 Given TWO textual files, count the number of words that are common 
@@ -22,4 +22,24 @@ Task1-input2.txt
 >- Wordcount for two input files
 >- Top-15 output of the result using the data files listed above (you only need to extract these 15 output from the sorted output)
 
+## 2. [Recommendation System](Recommendation-System)
 
+Collaborative Filtering (CF)  
+Item-based techniques have two major parts:
+1. analyze the user-item matrix to identify relationships between different items, 
+2. use these relationships to indirectly compute recommendations for uses.
+
+So we need to implement two parts:  
+1. PART 1: Compute the similarities between items.
+1. PART 2: Predict the recommendation scores for every user. 
+
+## 3. [User Clustering for StackOverflow](User-cluster)
+
+Use k-means on Spark to cluser users of StackOverflow based on features.
+
+We follow a structure like this. 
+1. group the questions and answers together
+2. computing the highest score
+3. design the vectors for clustering from the data
+4. clustering
+5. some additional parts

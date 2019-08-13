@@ -20,4 +20,4 @@ Task1-input2.txt
 >- Wordcount for two input files
 >- Top-15 output of the result using the data files listed above (you only need to extract these 15 output from the sorted output)
 
-find more in [document](/document.pdf)
+find more in [document](document.pdf)

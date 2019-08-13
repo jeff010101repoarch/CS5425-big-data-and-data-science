@@ -1,8 +1,6 @@
-# CS5425-big-data-and-data-science
-Projects for CS5425 big data and data science
+# Common Word Count
 
-## 1. [Common Word Count](/commonword)
-
+## Description
 * Problem:  
 Given TWO textual files, count the number of words that are common 
 * Goals:  
@@ -22,4 +20,4 @@ Task1-input2.txt
 >- Wordcount for two input files
 >- Top-15 output of the result using the data files listed above (you only need to extract these 15 output from the sorted output)
 
-
+find more in [document](/document.pdf)

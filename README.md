@@ -44,7 +44,7 @@ We follow a structure like this.
 4. clustering
 5. some additional parts
 
-## 3. [A survey for NoSQL](NoSQL.pdf)
+## 3. [A survey for NoSQL](NoSQL.pdf.pdf)
 
 The bigdata technologies raise more and more attentions in recent years, as the size of data, which the
 internet companies usually deal with, has scale to TBs or PBs. The traditional databases meet great

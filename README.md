@@ -43,3 +43,16 @@ We follow a structure like this.
 3. design the vectors for clustering from the data
 4. clustering
 5. some additional parts
+
+## 3. [A survey for NoSQL](NoSQL.pdf)
+
+The bigdata technologies raise more and more attentions in recent years, as the size of data, which the
+internet companies usually deal with, has scale to TBs or PBs. The traditional databases meet great
+challenges for the bigdata demands, especially the large scale and high-concurrency applications.
+NoSQL databases are created for the raising demand for store and query for bigdata. This survey
+paper will cover three representative databases of three different NoSQL types according to CS5425
+course requirement and summarize the several key points, the course may certain, of each NoSQL
+database.
+
+Database list:  
+Redis, Cassandra, Neo4j
